@@ -1,7 +1,4 @@
-<h2 align="center"> I'm miladamini&nbsp;</h2>
-<p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="AyoubMS" /> </p>
+<h2 align="center"> I'm miladamini&nb</h2>
 
 
 => my site: https://bookhut.ir
@@ -21,12 +18,12 @@
 </p>
 <hr>
   <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&show_icons=true&locale=en&theme=tokyonight" alt="Ehsan-Fouladi"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miladamini&show_icons=true&locale=en&theme=tokyonight" alt="Ehsan-Fouladi"/>
    </p>
 
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-Fouladi&theme=tokyonight" alt="Ehsan-Fouladi"/></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miladamini&theme=tokyonight" alt="Ehsan-Fouladi"/></p>
 
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehsan-Fouladi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ehsan-Fouladi"/>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miladamini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ehsan-Fouladi"/>
   </p>
 
 
